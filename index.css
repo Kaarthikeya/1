@@ -23,3 +23,7 @@ h1 {
   line-height: 180%;
   box-shadow: 1px 1px 15px 1px blanchedalmond;
 }
+
+a {
+  color: aliceblue;
+}
